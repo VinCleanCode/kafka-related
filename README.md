@@ -1,2 +1,2 @@
-# kafkaRelated
+# Kafka related project
 kafkaRelated
